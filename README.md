@@ -1,18 +1,18 @@
-¡Adivina el Número! 🎮
+# ¡Adivina el Número! 🎮
 
-Rango Personalizable 🛠️
-Ajusta el rango máximo con un SeekBar y recibe retroalimentación en tiempo real 📊.
+**1. Rango Personalizable 🛠️**  
+Ajusta el rango máximo con un **SeekBar** y recibe **retroalimentación en tiempo real** 📊.
 
-Números Aleatorios 🎲
+**2. Números Aleatorios 🎲**  
 Cada vez que ajustes el rango, ¡el número secreto cambia automáticamente! 🔄
 
-Verificación de Respuesta ✅
+**3. Verificación de Respuesta ✅**  
 Ingresa tu conjetura, y si no es válida, ¡te avisamos al instante! ⚠️
 
-Retroalimentación Divertida 🗨️
-¡Ánimos en cada intento! 🎉 Si aciertas, una felicitación te espera 🎊
+**4. Retroalimentación Divertida 🗨️**  
+¡Ánimos en cada intento! 🎉 Si aciertas, una **felicitación** te espera 🎊
 
-Diseño Sin Distracciones 📱
+**5. Diseño Sin Distracciones 📱**  
 ¡Sumérgete en el juego sin barras ni interrupciones! 🚫📲
 
 ¡Adivina y diviértete! 🎯
